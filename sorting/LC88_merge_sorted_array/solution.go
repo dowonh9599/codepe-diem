@@ -6,10 +6,8 @@ import (
 )
 
 func merge(nums1 []int, m int, nums2 []int, n int) []int {
-	for j, i := 0, m; j < n; j++ {
-		nums1[i] = nums2[j]
-		i++
-	}
+	nums1 = nums1[:m]
+	nums1 = append(nums1, nums2[:n]...)
 	sort.Ints(nums1)
 	return nums1
 }
@@ -19,6 +17,10 @@ func main() {
 	m := 3
 	nums2 := []int{2, 5, 6}
 	n := 3
+
 	merged := merge(nums1, m, nums2, n)
-	fmt.Println(merged)
+	for _, num := range merged {
+		fmt.Printf("%d ", num)
+	}
+	fmt.Println()
 }
