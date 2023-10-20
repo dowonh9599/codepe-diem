@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "stdexcept": "cpp"
+  },
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.tabSize": 2
+  },
+}
