@@ -1,4 +1,4 @@
-package sorting.LC26_remove_duplicates;
+package sorting.LC26_remove_duplicates_from_sorted_array;
 
 public class Solution {
   public int removeDuplicates(int[] nums) {
