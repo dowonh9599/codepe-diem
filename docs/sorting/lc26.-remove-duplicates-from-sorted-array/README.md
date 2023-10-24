@@ -1,3 +1,8 @@
+---
+description: >-
+  https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+---
+
 # LC26. Remove Duplicates from Sorted Array
 
 Given an integer array `nums` sorted in **non-decreasing order**, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place\_algorithm) such that each unique element appears only **once**. The **relative order** of the elements should be kept the **same**. Then return _the number of unique elements in_ `nums`.
@@ -25,8 +30,6 @@ for (int i = 0; i < k; i++) {
 
 If all assertions pass, then your solution will be **accepted**.
 
-&#x20;
-
 **Example 1:**
 
 <pre><code><strong>Input: nums = [1,1,2]
@@ -42,8 +45,6 @@ If all assertions pass, then your solution will be **accepted**.
 </strong><strong>Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
 </strong>It does not matter what you leave beyond the returned k (hence they are underscores).
 </code></pre>
-
-&#x20;
 
 **Constraints:**
 

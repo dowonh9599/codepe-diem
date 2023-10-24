@@ -1,3 +1,8 @@
+---
+description: >-
+  https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
+---
+
 # LC27. Remove Element
 
 Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` [**in-place**](https://en.wikipedia.org/wiki/In-place\_algorithm). The order of the elements may be changed. Then return _the number of elements in_ `nums` _which are not equal to_ `val`.
