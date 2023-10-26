@@ -20,3 +20,6 @@
   * [Java](sorting/lc26.-remove-duplicates-from-sorted-array/java.md)
   * [Python](sorting/lc26.-remove-duplicates-from-sorted-array/python.md)
   * [Typescript](sorting/lc26.-remove-duplicates-from-sorted-array/typescript.md)
+* [LC80. Remove Duplicates from Sorted Array II](sorting/lc80.-remove-duplicates-from-sorted-array-ii/README.md)
+  * [C++](sorting/lc80.-remove-duplicates-from-sorted-array-ii/c++.md)
+  * [Go](sorting/lc80.-remove-duplicates-from-sorted-array-ii/go.md)
