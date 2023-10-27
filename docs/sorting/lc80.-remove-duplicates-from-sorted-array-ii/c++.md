@@ -76,3 +76,18 @@ int main() {
 
 ```
 
+## Approach
+
+**Solution 1**
+
+This solution implements a two-pointer approach, where `i` scans through the original vector and `k` keeps track of the position in the modified vector. This function works by iterating over the vector and counting the number of duplicates for each element. If a number appears more than once, it ensures that there are exactly two copies of that number in the modified vector. If a number appears only once, it just copies the number over.
+
+**Solution 2**
+
+This solution also uses a two-pointer approach where `i` keeps track of the position in the modified vector and `ele` iterates through each element in the original vector using a range-based `for` loop.
+
+## Complexity Analysis
+
+* Time Complexity: `O(n)`, where n is the size of the vector. This is because each solution iterates over the vector once.
+* Space Complexity: `O(1)`
+
