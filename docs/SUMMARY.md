@@ -26,3 +26,7 @@
   * [Java](sorting/lc80.-remove-duplicates-from-sorted-array-ii/java.md)
   * [Python](sorting/lc80.-remove-duplicates-from-sorted-array-ii/python.md)
   * [Typescript](sorting/lc80.-remove-duplicates-from-sorted-array-ii/typescript.md)
+
+***
+
+* [LC169.Majority Element](lc169.majority-element.md)
