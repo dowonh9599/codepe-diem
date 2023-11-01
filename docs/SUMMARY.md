@@ -26,12 +26,9 @@
   * [Java](sorting/lc80.-remove-duplicates-from-sorted-array-ii/java.md)
   * [Python](sorting/lc80.-remove-duplicates-from-sorted-array-ii/python.md)
   * [Typescript](sorting/lc80.-remove-duplicates-from-sorted-array-ii/typescript.md)
-
-***
-
-* [LC169.Majority Element](lc169.majority-element/README.md)
-  * [C++](lc169.majority-element/c++.md)
-  * [Go](lc169.majority-element/go.md)
-  * [Java](lc169.majority-element/java.md)
-  * [Python](lc169.majority-element/python.md)
-  * [Typescript](lc169.majority-element/typescript.md)
+* [LC169.Majority Element](sorting/lc169.majority-element/README.md)
+  * [C++](sorting/lc169.majority-element/c++.md)
+  * [Go](sorting/lc169.majority-element/go.md)
+  * [Java](sorting/lc169.majority-element/java.md)
+  * [Python](sorting/lc169.majority-element/python.md)
+  * [Typescript](sorting/lc169.majority-element/typescript.md)
