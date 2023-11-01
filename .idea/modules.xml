@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sorting/LC80_remove_duplicates_from_sorted_array_2/LC80_remove_duplicates_from_sorted_array_2.iml" filepath="$PROJECT_DIR$/sorting/LC80_remove_duplicates_from_sorted_array_2/LC80_remove_duplicates_from_sorted_array_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codepe-diem.iml" filepath="$PROJECT_DIR$/codepe-diem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
