@@ -1,3 +1,8 @@
+---
+description: >-
+  https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150
+---
+
 # LC169.Majority Element
 
 Given an array `nums` of size `n`, return _the majority element_.
