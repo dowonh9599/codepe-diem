@@ -1,4 +1,4 @@
-package sorting.LC150_majority_elements;
+package sorting.LC169_majority_elements;
 import java.util.Arrays;
 
 public class Solution {
