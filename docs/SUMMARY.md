@@ -31,4 +31,7 @@
 
 * [LC169.Majority Element](lc169.majority-element/README.md)
   * [C++](lc169.majority-element/c++.md)
+  * [Go](lc169.majority-element/go.md)
   * [Java](lc169.majority-element/java.md)
+  * [Python](lc169.majority-element/python.md)
+  * [Typescript](lc169.majority-element/typescript.md)
