@@ -1,3 +1,5 @@
+package sorting.LC88_merge_sorted_array;
+
 import java.util.Arrays;
 
 class Solution {
