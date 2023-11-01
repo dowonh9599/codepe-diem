@@ -29,4 +29,6 @@
 
 ***
 
-* [LC169.Majority Element](lc169.majority-element.md)
+* [LC169.Majority Element](lc169.majority-element/README.md)
+  * [C++](lc169.majority-element/c++.md)
+  * [Java](lc169.majority-element/java.md)
