@@ -32,3 +32,4 @@
   * [Java](sorting/lc169.majority-element/java.md)
   * [Python](sorting/lc169.majority-element/python.md)
   * [Typescript](sorting/lc169.majority-element/typescript.md)
+* [LC189. Rotate Array](sorting/lc189.-rotate-array.md)
