@@ -1,22 +1,17 @@
 function rotate(nums: number[], k: number): void {
-  k = k % nums.length;
-  let l = 0;
-  let r = nums.length - 1;
+  k %= nums.length;
+  let n = nums.length
   // reverse full given array
   // from [1,2,3,4,5,6,7] to [7,6,5,4,3,2,1]
-  nums = reverseArr(nums, l, r);
+  nums = reverseArr(nums, 0, n-1);
 
   // reverse part from 0 to k - 1;
   // from [7,6,5,4,3,2,1] to [5,6,7,4,3,2,1]
-  l = 0;
-  r = k - 1;
-  nums = reverseArr(nums, l, r);
+  nums = reverseArr(nums, 0, k-1);
 
   // reverse part from k to the end;
   // from [5,6,7,4,3,2,1] to [5,6,7,1,2,3,4]
-  l = k;
-  r = nums.length - 1;
-  nums = reverseArr(nums, l, r);
+  nums = reverseArr(nums, k, n-1);
 };
 
 function reverseArr(nums: number[], l: number, r: number): number[] {
