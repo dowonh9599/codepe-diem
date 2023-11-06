@@ -1,6 +1,6 @@
 ---
 description: >-
-  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150
+  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150
 ---
 
 # LC122. Best Time to Buy and Sell Stock II

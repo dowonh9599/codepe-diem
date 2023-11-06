@@ -23,7 +23,6 @@ func main() {
 	prices := []int{7, 1, 5, 3, 6, 4}
 	fmt.Println(maxProfit(prices))
 }
-
 ```
 
 ## Approach
@@ -38,4 +37,4 @@ Time Complexity: `O(n)`
 
 Space Complexity: `O(1)`
 
-* the algorithm only uses a few integer variables and doesn't use any additional data structures whose size depends on the input
+* the algorithm only uses a few integer variables and doesn't use any additional data structures whose size depends on the input. The input vector is not counted towards the space complexity because it's part of the input, and we're looking at the additional space used.
