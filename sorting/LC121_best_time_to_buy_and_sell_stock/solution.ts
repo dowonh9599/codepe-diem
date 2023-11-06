@@ -11,8 +11,9 @@ function maxProfit(prices: number[]): number {
   return profit;
 }
 
-const main = () => {
+const LC121Main = () => {
   const prices: number[] = [7, 1, 5, 3, 6, 4];
   console.log(maxProfit(prices));
 }
 
+LC121Main()
