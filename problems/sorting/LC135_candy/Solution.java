@@ -1,4 +1,4 @@
-package sorting.LC135_candy;
+package problems.sorting.LC135_candy;
 
 import java.util.Arrays;
 

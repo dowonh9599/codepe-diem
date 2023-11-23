@@ -1,4 +1,4 @@
-package sorting.LC88_merge_sorted_array;
+package problems.sorting.LC88_merge_sorted_array;
 
 import java.util.Arrays;
 

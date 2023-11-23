@@ -1,4 +1,4 @@
-package sorting.LC134_gas_station;
+package problems.sorting.LC134_gas_station;
 
 public class Solution {
   int canCompleteCircuit(int[] gas, int[] cost) {

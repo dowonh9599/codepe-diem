@@ -1,4 +1,4 @@
-package sorting.LC80_remove_duplicates_from_sorted_2;
+package problems.sorting.LC80_remove_duplicates_from_sorted_2;
 
 public class Solution {
   public int removeDuplicates1(int[] nums) {

@@ -1,4 +1,4 @@
-package sorting.LC55_jumping_game;
+package problems.sorting.LC55_jumping_game;
 
 public class Solution {
   public boolean canJump(int[] nums) {

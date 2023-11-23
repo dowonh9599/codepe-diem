@@ -1,4 +1,4 @@
-package sorting.LC45_jumping_game_2;
+package problems.sorting.LC45_jumping_game_2;
 
 public class Solution {
   public int jump(int[] nums) {

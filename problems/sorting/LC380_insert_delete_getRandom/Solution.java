@@ -1,4 +1,4 @@
-package sorting.LC380_insert_delete_getRandom;
+package problems.sorting.LC380_insert_delete_getRandom;
 
 import java.util.Set;
 import java.util.HashSet;

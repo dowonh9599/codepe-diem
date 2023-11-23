@@ -1,4 +1,4 @@
-package sorting.LC238_product_of_array_except_self;
+package problems.sorting.LC238_product_of_array_except_self;
 
 public class Solution {
   public int[] productExceptSelf(int[] nums) {

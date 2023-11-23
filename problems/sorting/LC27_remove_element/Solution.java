@@ -1,4 +1,4 @@
-package sorting.LC27_remove_element;
+package problems.sorting.LC27_remove_element;
 import java.util.Arrays;
 
 public class Solution {

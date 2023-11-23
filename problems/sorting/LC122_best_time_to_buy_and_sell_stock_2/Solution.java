@@ -1,4 +1,4 @@
-package sorting.LC122_best_time_to_buy_and_sell_stock_2;
+package problems.sorting.LC122_best_time_to_buy_and_sell_stock_2;
 
 public class Solution {
   public static int maxProfit(int[] prices) {

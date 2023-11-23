@@ -1,4 +1,4 @@
-package sorting.LC274_h_index;
+package problems.sorting.LC274_h_index;
 
 import java.util.Arrays;
 

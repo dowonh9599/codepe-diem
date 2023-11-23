@@ -1,4 +1,4 @@
-package sorting.LC189_rotate_array;
+package problems.sorting.LC189_rotate_array;
 
 public class Solution {
   public void rotate(int[] nums, int k) {
