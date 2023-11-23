@@ -80,3 +80,5 @@
   * [Java](sorting/lc134.-gas-station/java.md)
   * [Python](sorting/lc134.-gas-station/python.md)
   * [Typescript](sorting/lc134.-gas-station/typescript.md)
+* [LC135. Candy](sorting/lc135.-candy.md)
+* [LC42. Trapping Rainwater](sorting/lc42.-trapping-rainwater.md)
