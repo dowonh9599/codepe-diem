@@ -82,3 +82,13 @@
   * [Typescript](sorting/lc134.-gas-station/typescript.md)
 * [LC135. Candy](sorting/lc135.-candy.md)
 * [LC42. Trapping Rainwater](sorting/lc42.-trapping-rainwater.md)
+
+## Greeting
+
+* [TICT 3.1 Minimum Coins](greeting/tict-3.1-minimum-coins/README.md)
+  * [C++](greeting/tict-3.1-minimum-coins/c++.md)
+  * [Go](greeting/tict-3.1-minimum-coins/go.md)
+  * [Java](greeting/tict-3.1-minimum-coins/java.md)
+  * [Python](greeting/tict-3.1-minimum-coins/python.md)
+  * [Typescript](greeting/tict-3.1-minimum-coins/typescript.md)
+* [Page 1](greeting/page-1.md)
